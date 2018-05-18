@@ -1,6 +1,6 @@
 info:
-  description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+  description: Spring Cloud Samples JRL
+  url: https://github.com/jrlichina/configserver
 eureka:
   client:
     serviceUrl:
