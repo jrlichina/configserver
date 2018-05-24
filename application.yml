@@ -1,5 +1,5 @@
 info:
-  description: Spring Cloud Samples JRL
+  description: Spring Cloud Samples JRL New Git update
   url: https://github.com/jrlichina/configserver
 eureka:
   client:
